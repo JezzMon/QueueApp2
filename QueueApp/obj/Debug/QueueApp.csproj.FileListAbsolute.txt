@@ -1,0 +1,12 @@
+C:\Users\Jezz\source\repos\QueueApp\QueueApp\bin\Debug\QueueApp.exe.config
+C:\Users\Jezz\source\repos\QueueApp\QueueApp\bin\Debug\QueueApp.exe
+C:\Users\Jezz\source\repos\QueueApp\QueueApp\bin\Debug\QueueApp.pdb
+C:\Users\Jezz\source\repos\QueueApp\QueueApp\obj\Debug\QueueApp.csproj.AssemblyReference.cache
+C:\Users\Jezz\source\repos\QueueApp\QueueApp\obj\Debug\QueueApp.QueuingForm.resources
+C:\Users\Jezz\source\repos\QueueApp\QueueApp\obj\Debug\QueueApp.Properties.Resources.resources
+C:\Users\Jezz\source\repos\QueueApp\QueueApp\obj\Debug\QueueApp.csproj.GenerateResource.cache
+C:\Users\Jezz\source\repos\QueueApp\QueueApp\obj\Debug\QueueApp.csproj.CoreCompileInputs.cache
+C:\Users\Jezz\source\repos\QueueApp\QueueApp\obj\Debug\QueueApp.exe
+C:\Users\Jezz\source\repos\QueueApp\QueueApp\obj\Debug\QueueApp.pdb
+C:\Users\Jezz\source\repos\QueueApp\QueueApp\obj\Debug\QueueApp.CashierWindowQueueForm.resources
+C:\Users\Jezz\source\repos\QueueApp\QueueApp\obj\Debug\QueueApp.CustomerView.resources
